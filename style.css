@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+}
+
+
+h1{
+    position: absolute;
+    left: 700px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+marquee{
+    font-size: xx-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.saba{
+    width: 400px;
+    height: 500px;
+    position: absolute;
+    left: 100px;
+    top: 300px;
+}
+.dachi{
+    width: 500px;
+    height: 400px;
+    position: absolute;
+    left: 1300px;
+    top: 300px;
+}
+p{
+    position: absolute;
+    left: 550px;
+    top: 400px;
+    color: yellow;
+    background: purple;
+}
+.babana{
+position: absolute;
+left: 700px;
+bottom: 100px;
+}
